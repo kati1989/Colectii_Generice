@@ -1,0 +1,4 @@
+Dacia,negru,benzina,2600
+Audi,rosu,electric,8000
+Opel,gri,diesel,4000
+Mazda,negru,benzina,5000
